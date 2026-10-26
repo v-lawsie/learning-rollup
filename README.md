@@ -11,16 +11,18 @@
 - [Developing in Agentic AI Systems Part 2](https://learn.microsoft.com/en-us/training/paths/github-agentic-systems-part-two/github-agentic-systems-part-two)
 
 ### Learning Pathways
+**GitHub Copilot**
 - [GitHub Copilot](https://learn.github.com/learning-pathways/github-copilot)
 - [Get more value from GitHub Copilot(Token Optimization)](https://learn.github.com/learning-pathways/ghcp-token)
+**GHES**
 - [Choose a GitHub Enterprise Deployment](https://learn.github.com/learning-pathways/which-enterprise)
 - [GitHub Actions on GHES](https://learn.github.com/learning-pathways/ghes-actions)
 - [Configure GHES](https://learn.github.com/learning-pathways/ghes-admin)
 - [Working with GHES](https://learn.github.com/learning-pathways/ghes-developer)
+**Other**
 - [GitHub Code Quality](https://learn.github.com/learning-pathways/github-code-quality)
 - [GitHub Actions](https://learn.github.com/learning-pathways/github-actions)
 - [GitHub Platform]()
-- [Preparing for Usage-Based Billing](https://learn.github.com/courses/gitHubusagebasedbillingmodule)
 
 ### Proficiency Model
 - [GitHub Copilot Verified Proficiency](https://learn.github.com/proficiencies/copilot/)
@@ -53,7 +55,6 @@
 - [GitHub Agentic AI Developer](https://learn.github.com/certification/AGENTIC) - Certification
 - [Developing in Agentic AI Systems Part 1](https://learn.microsoft.com/en-us/training/courses/gh-600t00) - Learning materials for Agentic AI Developer Certification
 - [Developing in Agentic AI Systems Part 2](https://learn.microsoft.com/en-us/training/paths/github-agentic-systems-part-two/github-agentic-systems-part-two) - Learning materials for Agentic AI Developer Certification
-- [Preparing for Usage-Based Billing](https://learn.github.com/courses/gitHubusagebasedbillingmodule) - Learning module focused on billing
 
 ### GHES
 - [Choose a GitHub Enterprise Deployment](https://learn.github.com/learning-pathways/which-enterprise) - Learning pathway for leaders
