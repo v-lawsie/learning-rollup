@@ -22,7 +22,7 @@
 **Other**
 - [GitHub Code Quality](https://learn.github.com/learning-pathways/github-code-quality)
 - [GitHub Actions](https://learn.github.com/learning-pathways/github-actions)
-- [GitHub Platform]()
+- [GitHub Platform](https://learn.github.com/learning-pathways/github-platform)
 
 ### Proficiency Model
 - [GitHub Copilot Verified Proficiency](https://learn.github.com/proficiencies/copilot/)
@@ -63,5 +63,5 @@
 - [Working with GHES](https://learn.github.com/learning-pathways/ghes-developer) - Learning pathway for developers
 
 ### GitHub Platform
-- [GitHub Platform]() - Learning pathway
+- [GitHub Platform](https://learn.github.com/learning-pathways/github-platform) - Learning pathway
 
