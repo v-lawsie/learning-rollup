@@ -13,16 +13,19 @@
 ### Learning Pathways
 **GitHub Copilot**
 - [GitHub Copilot](https://learn.github.com/learning-pathways/github-copilot)
-- [Get more value from GitHub Copilot(Token Optimization)](https://learn.github.com/learning-pathways/ghcp-token)
+- [Get more value from GitHub Copilot (Token Optimization)](https://learn.github.com/learning-pathways/ghcp-token)
+  
 **GHES**
 - [Choose a GitHub Enterprise Deployment](https://learn.github.com/learning-pathways/which-enterprise)
 - [GitHub Actions on GHES](https://learn.github.com/learning-pathways/ghes-actions)
 - [Configure GHES](https://learn.github.com/learning-pathways/ghes-admin)
 - [Working with GHES](https://learn.github.com/learning-pathways/ghes-developer)
+
 **Other**
 - [GitHub Code Quality](https://learn.github.com/learning-pathways/github-code-quality)
 - [GitHub Actions](https://learn.github.com/learning-pathways/github-actions)
 - [GitHub Platform](https://learn.github.com/learning-pathways/github-platform)
+- [GitHub Advanced Security](https://learn.github.com/learning-pathways/github-advanced-security)
 
 ### Proficiency Model
 - [GitHub Copilot Verified Proficiency](https://learn.github.com/proficiencies/copilot/)
@@ -61,6 +64,9 @@
 - [GitHub Actions on GHES](https://learn.github.com/learning-pathways/ghes-actions) - Learning pathway for developers
 - [Configure GHES](https://learn.github.com/learning-pathways/ghes-admin) - Learning pathway for administrators
 - [Working with GHES](https://learn.github.com/learning-pathways/ghes-developer) - Learning pathway for developers
+
+### GHAS
+- [GitHub Advanced Security](https://learn.github.com/learning-pathways/github-advanced-security) - Learning pathway
 
 ### GitHub Platform
 - [GitHub Platform](https://learn.github.com/learning-pathways/github-platform) - Learning pathway
