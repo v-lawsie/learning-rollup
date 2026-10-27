@@ -35,6 +35,7 @@
 - [Agentic Workflows That Read the Room](https://github.com/skills/agentic-workflows-that-read-the-room)
 - [Idea to Merge with the Copilot App](https://github.com/skills/idea-to-merge-with-the-copilot-app)
 - [Agent Orchestration: Build your AI Dream Team](https://github.com/skills/agent-orchestration-build-your-ai-dream-team)
+- [Ship with Quality](https://github.com/skills/ship-with-quality)
 
 -------
 
@@ -45,6 +46,7 @@
 
 ### Code Quality 
 - [GitHub Code Quality](https://learn.github.com/learning-pathways/github-code-quality) - Learning pathway
+- [Ship with Quality](https://github.com/skills/ship-with-quality) - Skill
 
 ### Copilot
 - [GitHub Copilot](https://learn.github.com/learning-pathways/github-copilot) - Learning pathway following GitHub Verified Proficiency
